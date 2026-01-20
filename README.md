@@ -4,12 +4,12 @@ DEV
 
 ### Languages & Skills
 
-[![My Langs](https://skillicons.dev/icons?i=lua,rust,python,js,html,css,cpp,c)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=lua,rust,python,js,html,css,cpp,c,ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,nodejs,electron,blender)](https://skillicons.dev)
 
 ### Learning
 
-[![My Langs](https://skillicons.dev/icons?i=assembly,brainfuck)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 ### Projects
 - [**Lunaris**](https://github.com/4lpaca-pin/Lunaris) < Lunaris UI - Custom UI For Seliware
