@@ -20,4 +20,4 @@ DEV
 - [**Arceney.cc**](https://github.com/4lpaca-pin/Arceney) < Arceney.cc Scripts For Roblox
 
 ### Donate
-- Ethereum: ```0xD7aF900623515cb5c9a44d870662B9917615f3fd```
+- Ethereum: ```0xc92f80Be02c338c44056ff78EeFDEb19EEdB408F```
