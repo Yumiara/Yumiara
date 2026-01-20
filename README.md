@@ -12,7 +12,7 @@ DEV
 [![My Langs](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 ### Projects
-- **Lunaris** < None
+- **None**
 
 ### Donate
 - Ethereum: ```0xc92f80Be02c338c44056ff78EeFDEb19EEdB408F```
