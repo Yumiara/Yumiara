@@ -4,8 +4,8 @@ DEV
 
 ### Languages & Skills
 
-[![My Langs](https://skillicons.dev/icons?i=lua,rust,python,js,html,css,cpp,c,ts, nodejs, nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,nodejs,electron,blender, vscode, visualstudio)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=lua,rust,python,js,html,css,cpp,c,ts,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,nodejs,electron,blender,vscode,visualstudio)](https://skillicons.dev)
 
 ### Learning
 
